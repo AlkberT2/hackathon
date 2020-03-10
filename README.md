@@ -49,6 +49,7 @@ Si se hace clic dentro del tiempo indicado muestra una alerta con el mensaje: �
 </div>
 ```
 
+
 **Nota**: *quizás necesites utilizar la propiedad className de un elemento*
 
 **Tips:** El motor del juego es una función con un temporizador setTimeout que llamaría recursivamente a la misma función cada 3s.
